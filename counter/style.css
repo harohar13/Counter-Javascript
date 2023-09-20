@@ -1,0 +1,19 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    justify-content: space-around;
+
+}
+ 
+button:hover {
+   
+    background-color: #e20447;
+  
+}
+.buttons{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    justify-content: space-around;
+}
